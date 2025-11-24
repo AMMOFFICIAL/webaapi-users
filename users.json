@@ -1,5 +1,10 @@
+
 [
-  { "username": "amm", "key": "amm" },
-  { "username": "admin", "key": "admin" },
-  { "username": "amm", "key": "123" }
+  {
+    "username": "amm",
+    "key": "amm",
+    "role": "King Premium",
+    "Active": "Permanent",
+    "avatar": "link"
+  }
 ]
